@@ -13,4 +13,8 @@ Vietnamese Encoding Converter (VEC) là một dự án nguồn mở được xâ
 * Tuyên truyền và thúc đẩy phong trào sử dụng FOSS ở Việt Nam.
 * Khuyến khích cộng đồng ứng dụng công nghệ mở trong quá trình phát triển dự án.
 
+## Tài Nguyên
 
+* Blog: http://vietunicode.wordpress.com
+* Mail Group: vec-dev@googlegroups.com
+* Wiki: https://github.com/Vietnamese-Encoding-Converter/Vietnamese-Encoding-Converter/wiki
