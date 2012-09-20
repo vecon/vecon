@@ -1,10 +1,10 @@
-# Vietnamese-Encoding-Converter
+# Vietnamese-Encoding-Converter Online (VECON)
 
-Welcome to Vietnamese Encoding Converter Project! 
+Welcome to Vietnamese Encoding Converter (VECON) Project! 
 
 ## Giới Thiệu
 
-Vietnamese Encoding Converter (VEC) là một dự án nguồn mở được xây dựng và phát triển bởi cộng đồng sử dụng phần mềm Tự do Nguồn mở Việt Nam.
+Vietnamese Encoding Converter Online (VECON) là một dự án nguồn mở được xây dựng và phát triển bởi cộng đồng sử dụng phần mềm Tự do Nguồn mở Việt Nam.
 
 ## Mục Tiêu
 
