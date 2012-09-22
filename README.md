@@ -5,7 +5,7 @@ Chào mừng bạn đến với dự án Vietnamese Encoding Converter Online (V
 
 ## Giới Thiệu
 
-Vietnamese Encoding Converter Online (VECON) là một dự án nguồn mở được xây dựng và phát triển bởi nhóm các bạn sinh viên tham gia cuộc thi [Mùa Hè Sáng Tạo 2012](http://vfossa.vn/vi/mhst/2012/). Dự án xây dựng một web service nhằm hỗ trợ cho việc chuyển đổi các văn bản sử dụng bảng mã cũ sang bảng mã chuẩn Unicode. Cuộc thi MHST đã kết thúc trong khi nhóm vẫn muốn tiếp tục phát triển. Vì vậy, nhóm muốn kêu gọi cộng đồng, những ai quan tâm cùng với nhóm tham gia phát triển dự án này.
+Vietnamese Encoding Converter Online (VECON) là một dự án nguồn mở được xây dựng và phát triển bởi nhóm các bạn sinh viên tham gia cuộc thi [Mùa Hè Sáng Tạo 2012](http://vfossa.vn/vi/mhst/2012/). Dự án xây dựng một web service nhằm hỗ trợ việc chuyển đổi các văn bản sử dụng bảng mã cũ sang bảng mã chuẩn Unicode. Cuộc thi MHST đã kết thúc trong khi nhóm vẫn muốn tiếp tục phát triển. Vì vậy, nhóm muốn kêu gọi cộng đồng, những ai quan tâm cùng với nhóm tham gia phát triển dự án này.
 
 ## Mục Tiêu
 
