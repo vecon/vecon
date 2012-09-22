@@ -20,7 +20,5 @@ Vietnamese Encoding Converter Online (VECON) là một dự án nguồn mở đ�
 * Bạn muốn biết các thảo luận trước đó của các thành viên trong nhóm dự án, bạn có thể hỏi, trao đổi với chúng tôi trong Mail Group: vecon-dev@googlegroups.com 
 * Trong quá trình sử dụng, việc có thắc mắc là điều khó tránh khỏi. Khi đó, hãy tìm các câu trả lời trong mục [Hỏi đáp (FAQs)](https://github.com/vecon/vecon/wiki/H%E1%BB%8Fi-%C4%91%C3%A1p) Nếu không tìm thấy, bạn có thể gửi câu hỏi thông qua Mail Group: vecon-support@googlegroups.com
 
-
-Các tài liệu, mã nguồn của dự án VECON trên công cụ Git được cung cấp dưới Giấy phép Attribution-NonCommercial CC BY-NC
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/vn/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/vn/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">VECON on Git tool</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Nguyễn Trần Trung, Nguyễn Năng Thắng, Đặng Duy Thanh</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/vn/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Vietnam License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/vecon/vecon/wiki" rel="dct:source">https://github.com/vecon/vecon/wiki</a>.
+## Giấy phép xuất bản (Licence)
+Các tài liệu, mã nguồn của dự án VECON trên công cụ Git được cung cấp dưới Giấy phép [Attribution-NonCommercial CC BY-NC](https://github.com/vecon/vecon/wiki/Gi%E1%BA%A5y-ph%C3%A9p-Creative-Commons).
