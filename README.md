@@ -21,4 +21,4 @@ Vietnamese Encoding Converter Online (VECON) là một dự án nguồn mở đ�
 * Trong quá trình sử dụng, việc có thắc mắc là điều khó tránh khỏi. Khi đó, hãy tìm các câu trả lời trong mục [Hỏi đáp (FAQs)](https://github.com/vecon/vecon/wiki/H%E1%BB%8Fi-%C4%91%C3%A1p) Nếu không tìm thấy, bạn có thể gửi câu hỏi thông qua Mail Group: vecon-support@googlegroups.com
 
 ## Giấy phép xuất bản (Licence)
-Các tài liệu, mã nguồn của dự án VECON trên công cụ Git được cung cấp dưới Giấy phép [Attribution-NonCommercial CC BY-NC](https://github.com/vecon/vecon/wiki/Gi%E1%BA%A5y-ph%C3%A9p-Creative-Commons).
+Các tài liệu, mã nguồn của dự án VECON trên công cụ Git được cung cấp dưới Giấy phép [Attribution - NonCommercian - ShareAlike CC BY-NC-SA](https://github.com/vecon/vecon/wiki/Gi%E1%BA%A5y-ph%C3%A9p-Creative-Commons).
