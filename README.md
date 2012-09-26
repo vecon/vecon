@@ -17,7 +17,7 @@ Nhóm sinh viên tham gia dự án VECON bao gồm:
 
 Người hướng dẫn nhóm:
 
-* Mentor Hoàng Minh Thắng
+* Mentor: Hoàng Minh Thắng
 
 Dự án xây dựng một web service nhằm hỗ trợ việc chuyển đổi các văn bản sử dụng bảng mã cũ sang bảng mã chuẩn Unicode. Hiện tại, nhóm đã hoàn thiện tài liệu hướng dẫn, cách thức tham gia phát triển dự án. Cuộc thi MHST đã kết thúc trong khi nhóm vẫn muốn phát triển dự án. Vì vậy, nhóm muốn kêu gọi cộng đồng, những ai quan tâm hãy cùng với nhóm tiếp tục tham gia phát triển dự án này.
 
